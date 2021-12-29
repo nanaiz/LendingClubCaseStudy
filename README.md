@@ -14,7 +14,7 @@
 - The current exercise is part of UpGrad's "Introduction into Statistics" course assignment.
 - The goal of the exercise is to help the Lender to make better credit decisions (rejection or approval of the credit application) by identifying factors that can serve as signals for potential future credit defaults. 
 - The current analysis is based on two files:
-* 'loan.csv' - historycal portfolio data containing records of approved credit contracts (both defaulted and non defaulted). Data about rejected loan applications is not available.
+* 'loan.csv' - historical portfolio data containing records of approved credit contracts (both defaulted and non defaulted). Data about rejected loan applications is not available.
 * 'Data_Dictionary.xlsx' - dictionary describing the business content of the attributes within the loan.csv?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
